@@ -1,4 +1,4 @@
 These are my website files and the hangman game. hangman.js is ready to go. 
-The website is three pages with a CSS file. All the pictures for the website are in the "Pics" folder. the HTML/CSS files
-need to live in a folder named "Jho" and the pictures need to live a folder named "Pics". Put both folders into another 
-folder and the website will work. 
+The website is three pages with a CSS file. All the pictures for the website are in the "Pics" folder. 
+The HTML/CSS files need to live in a folder named "Jho" and the pictures need to live a folder named "Pics". 
+Put both folders into another folder and the website will work. 
